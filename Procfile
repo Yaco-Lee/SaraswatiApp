@@ -1,0 +1,1 @@
+web: gunicorn SaraswatiApp.wsgi --log-file -
